@@ -1,11 +1,13 @@
-### Hi there 👋
+# Fernando de Abreu Pereira :man_technologist:
 
-## Welcome, my name is Fernando Abreu Pereira
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandodeabreupereira)](https://github.com/fernandodeabreupereira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoabreupereira/)](https://www.linkedin.com/in/fernandoabreupereira/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FernandoAbreuP)](https://twitter.com/FernandoAbreuP)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandodeabreupereira@gmail.com)](mailto:fernandodeabreupereira@gmail.com)
 
-[![Twitter Badge](https://img.shields.io/badge/-@FernandoAbreuP-0275d8?style=flat-square&labelColor=0275d8&logo=twitter&logoColor=white&link=https://twitter.com/FernandoAbreuP)](https://twitter.com/FernandoAbreuP) 
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Abreu%20Pereira-0275d8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoabreupereira/)](https://www.linkedin.com/in/fernandoabreupereira/) 
-[![Gmail Badge](https://img.shields.io/badge/-fernandodeabreupereira@gmail.com-0275d8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandodeabreupereira@gmail.com)](mailto:fernandodeabreupereira@gmail.com)
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
-Enthusiast of the best web & mobile development technologies.
+- 🔭 I’m currently working on web and mobile development
+- ⚡ Passionate about new technologies.
 
 “The design is not just what it looks like and feels like. The design is how it works”
