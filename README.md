@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on web and mobile development
 - ⚡ Passionate about new technologies.
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true">
+
 “The design is not just what it looks like and feels like. The design is how it works”
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandodeabreupereira)](https://github.com/fernandodeabreupereira)
