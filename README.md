@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on web and mobile development
 - ⚡ Passionate about new technologies.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira" alt="fernandodeabreupereira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira&layout=compact" alt="fernandodeabreupereira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true&count_private=true" alt="fernandodeabreupereira" width="50%"/></p>
 
