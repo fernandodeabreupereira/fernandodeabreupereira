@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on web and mobile development
 - ⚡ Passionate about new technologies.
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true">
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true&count_private=true" alt="fernandodeabreupereira" width="50%"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira&layout=compact&hide=html" alt="fernandodeabreupereira" /></p>
 
 “The design is not just what it looks like and feels like. The design is how it works”
 
