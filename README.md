@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on web and mobile development
 - ⚡ Passionate about new technologies.
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true&count_private=true" alt="fernandodeabreupereira" width="50%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira&layout=compact&hide=html" alt="fernandodeabreupereira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira&layout=compact&hide=html" alt="fernandodeabreupereira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true&count_private=true" alt="fernandodeabreupereira" width="50%"/></p>
 
-“The design is not just what it looks like and feels like. The design is how it works”
+<p align="left">“The design is not just what it looks like and feels like. The design is how it works”</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandodeabreupereira)](https://github.com/fernandodeabreupereira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoabreupereira/)](https://www.linkedin.com/in/fernandoabreupereira/)
