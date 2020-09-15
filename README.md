@@ -10,9 +10,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira&layout=compact" />
 </a>
 
-<br>
+<br><br>
 
-<p align="left" style="padding-top: 10px;">“The design is not just what it looks like and feels like. The design is how it works”</p>
+<p align="left">“The design is not just what it looks like and feels like. The design is how it works”</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandodeabreupereira)](https://github.com/fernandodeabreupereira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoabreupereira/)](https://www.linkedin.com/in/fernandoabreupereira/)
