@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira&layout=compact" />
 </a>
 
-<br><br>
+<br>
 
 <p align="left">“The design is not just what it looks like and feels like. The design is how it works”</p>
 
