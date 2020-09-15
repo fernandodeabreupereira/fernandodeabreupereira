@@ -3,16 +3,9 @@
 - 🔭 I’m currently working on web and mobile development
 - ⚡ Passionate about new technologies.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true&count_private=true" alt="Fernando de Abreu Pereira's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodeabreupereira&layout=compact" />
-</a>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=fernandodeabreupereira&show_icons=true">
 
-<br><br>
-
-<p align="left">“The design is not just what it looks like and feels like. The design is how it works”</p>
+“The design is not just what it looks like and feels like. The design is how it works”
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandodeabreupereira)](https://github.com/fernandodeabreupereira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoabreupereira/)](https://www.linkedin.com/in/fernandoabreupereira/)
