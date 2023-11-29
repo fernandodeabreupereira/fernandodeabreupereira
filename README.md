@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=fernandodeabreupereira&hide=html,css" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <div align="left">
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,cs,dotnet,angular,flutter,git,docker,vscode,visualstudio,postgres,mongo,redis
