@@ -6,10 +6,3 @@
 </div>
 
 ###
-
-<div align="left">
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,cs,dotnet,angular,flutter,git,docker,vscode,visualstudio,postgres,mongo,redis
-)](https://skillicons.dev)
-
-  </div>
